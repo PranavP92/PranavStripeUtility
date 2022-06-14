@@ -7,5 +7,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "My Stripe Payment"
-include ':app'
+include ':Library'
 include ':mystripelibrary'
